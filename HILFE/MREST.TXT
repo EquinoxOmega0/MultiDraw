@@ -1,0 +1,10 @@
+Multidraw - Rest
+
+Die Zwischenablage von Multidraw ist mit der Windowszischenablage kompatible und man kann somit ohne Probleme Biler exportieren und importiern.
+
+Bild als Laufwerkshintergrund speichern: Diese Option ermöglicht es Ihnen Ihr aktuell geladenes Bild als im Arbeitsplatz sichtbarer Hintergrund für ein bestimmtes Laufwerk zu wählen.
+
+mit anderem Bild kombinieren: ermöglicht entweder eine Pixelweise oder RGB-weise Vermischung zweier Bilder(des aktuellen und einem gespeicherten).
+
+Zerhacken: Zerteilt das akutelle Bild in kleiner, welche in einem Ordner gespeichert werden. 
+

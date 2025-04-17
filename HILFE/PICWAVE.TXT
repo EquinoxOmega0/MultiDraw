@@ -1,0 +1,4 @@
+Picwave
+
+Mit diesem Programm können Sie diverse Formate laden und bearbeiten. Weiters können Sie auch mit dem programmeigenen Format *.PWD Video-Sequenzen speichern und editieren.
+

@@ -1,0 +1,3 @@
+FantasicScreen - Text
+
+Um einen Text über den Bildschirm laufen zu lassen gehen Sie in die Registerkarte "Text". Dort können sie entweder ein einzelenes Wort(Satz) oder mehrere Wörter einfügen, welche dann in Ihrem Bilschirmschoner verwendet werden. Die Farbeinstellungen sind mit denen der Pixels zu vergleichen. Wie sich der Text auf dem Bildschirm verhält, können sie auf der Arbeitsfläche "Bewegungsarten" einstellen. Zu den einzelnen Optionen sind keine tiefgehenden Erklärungen nötig, da sie sich wahrscheinlich selbst erklären.

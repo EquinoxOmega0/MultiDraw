@@ -1,0 +1,8 @@
+FantasicScreen - Allgemein
+
+Um einen neuen Bildschirmschoner zu erstellen klicken Sie einfach auf "NEU". Danach wählen Sie in auftaucheneden Fenster einen Namen aus und bestätigen. Die Attribute des Bildschirmschoner können sie anschließend im Menu bearbeiten.
+
+Wenn Sie beabsichtigen einen bereits erstellten Bildschirmschoner zu editieren, müssen Sie nur auf "LADEN" klicken und aus dem Fenster den jeweiligen Bildschirmschoner auswählen. 
+
+In der Registerkarte Allgemein können Sie eine etweilige Hintergundmusik einfügen, die Hintergrundfarbe, die Abbruchsbedingungen und den Grafikmodus bestimmen.
+

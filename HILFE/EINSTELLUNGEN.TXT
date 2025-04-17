@@ -1,0 +1,8 @@
+Multidraw - Einstellungen
+
+Farbeinstellungen VG: Hier kann man die Vordergrundfarbe bestimmen.
+Farbeinstellungen HG: Hier kann man die Hintergrundfarbe bestimmen.
+Schrifteinstellungen: Die Schriftart, Größe und Farbe für die Textausgabe können hier festgelegt werden.
+VG-Stil: bestimmt die Art der Linien
+HG-Stil: bestimmt das Muster der ausgefüllten Flächen
+Alle zurücksetzten: Dieser Menüpunkt bringt alle Einstellung wieder auf die Werte zurück, welche sie beim Progammstart besaßen.

@@ -1,0 +1,28 @@
+Dianiamte - Übergänge
+
+Kontrolle
+Sie können etweder die Bilder der Diashow mittles Tastatur manuel steuern und somit die Anzeigedauer stehts Ihren derzeitgen Bedürfnissen anpassen. Eine andere Option wäre, dass Sie den Bildwechsel dem Computer überlassen. Hierbei können Sie die Anzeigedauer auf die Millisekunde genau eingeben und die Diashow selbstständig bis zum Ende laufen lassen. 
+
+Anzeigeoptionen
+Hier sind Sie in der Lage die Größe der zu anzeigenden Bilder zu bestimmen. Die Option "Originalgröße" gibt das Bild mit der gespeicherten Höhe und Breite wieder. Bei "maximaler Anpassung" wird das Bild unter Wahrung der ursprünglichen Seitenverhältnisse so weit gestreckt bis es so viel wie möglich vom Bildschirm abdeckt. Der Modus "Vollbild" streckt das Bild so weit, dass es den Bildschirm vollständig ausfüllt. Dabei wird nicht auf die Seitenverhältnisse Rücksicht genommen. Die letze Option "einheitliche Größe" ermöglicht es Ihnen die Größe in der das Bild angeziegt werden soll selbst zu bestimmen.
+
+Bildwechsel
+Hier können Sie unter 18 verschiedenen Übergängen wählen. 
+einfach: kein besonderer Übergang, normaler Bildwechsel
+links nach rechts: Hierbei wird das Bild vom nächsten von links her übermalt.
+rechts nach links: Hierbei wird das Bild vom nächsten von rechts her übermalt.
+oben nach unten: Hierbei wird das Bild vom nächsten von oben her übermalt.
+unten nach oben: Hierbei wird das Bild vom nächsten von unten her übermalt.
+flimmernd: die einzelnen Pixels des alten Bildes werden nach einander durch die des neuen Bildes ersetzt.
+fragmentarisch fein: einzelne kleine Bildsegmente des Bildes werden durch die des nächsten ersetzt.
+fragmentarisch mittel: einzelne mittelgroße Bildsegmente des Bildes werden durch die des nächsten ersetzt.
+fragmentarisch grob: einzelne große Bildsegmente des Bildes werden durch die des nächsten ersetzt.
+diagonal von lo: Das alten Bild wird vom neuen aus der linken oberen Ecke kommen langsam übermalt.
+diagonal von ru: Das alten Bild wird vom neuen aus der rechten unteren Ecke kommen langsam übermalt.
+von innen: Das neue Bild breitet sich vom Zentrum her über das alte aus.
+von außen: Das neue Bild breitet sich vom Rand her über das alte aus.
+Bild nach rechts schieben: Hierbei wird das Bild vom nächsten nach rechts verschoben.
+Bild nach links schieben: Hierbei wird das Bild vom nächsten nach links verschoben.
+Bild nach unten schieben: Hierbei wird das Bild vom nächsten nach unten verschoben.
+Bild nach oben schieben: Hierbei wird das Bild vom nächsten nach oben verschoben.
+über Farbe: Hier blitzt beim Bildwechsel einmal die ausgewählte Farbe auf.

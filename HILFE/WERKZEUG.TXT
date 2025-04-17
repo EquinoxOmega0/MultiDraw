@@ -1,0 +1,30 @@
+Multidraw - Werkzeug
+
+Multidraw verfügt über eine äußerst umfangreiche Palette an Werkzeugen zur manuellen Gestalltung eines Bildes. Man kann ein deratiges Hilfsmittel entweder durch Klicken auf das entsprechende Symbol in der Leiste am linken Rand oder über den Menüpunkt Werkzeug, welcher eine größere Auswahl beinhaltet.
+
+Ausschneider: damit können Sie einen Teil eines Bild kopieren und verschieben. um dies noch rückgängig zu machen klicken Sie einfach mit der linken Maustaste neben den markierten Bereich, um es aber zu fixiren handeln sie gleich, benützen aber die rechte Maustaste
+Pinsel: ermöglich das Zeichenen von färbigen Linien in unterschiedlicher Dicke
+Bleistift: zeichnet feine schwarze Linien
+Füller: füllt einen einfärbigen Bereich mit der Ausgewählten Farbe aus
+Allesradierer: übermalt alles mit der Hintergrundfarbe
+Farbradierer: ersetzt beim Malen eine Farbe durch eine andere
+Spray: verstreut Pixels in gewünschter Farbe auf einer Fläche mit bestimmtem Radius
+Linie: befähigt zum ziehen einer langen geraden Linie in auswählbarer Farbe, Dicke und Art
+Dauerlinie: gleich wie Linie, nur der Endpunkt ist der Startpunkt der nächsten, beendbar mit Doppelklick
+Bézierkurve: durch setzen von 4 Fixpunkten wird eine gekrümmte Kurve erzeugt
+Text: ermöglicht nach dem Klicken einen Schriftzug in gewünschter Schriftart, Größe und Farbe einzufügen, beenden mit Klick
+Farbholer: nimmt angeklickte Farbe auf dem Bild als neue Vordergrundfarbe
+
+Formen: Multidraw besitzt die Fähigkeit eine Unzahl diverser Formen darzustellen
+
+Kreis: zeichnet einen Kreis definiert durch die Eckpunkte des umrahmenden Quadrates
+Ellipse: zeichnet eine Ellipse bestimmt durch die Eckpunkte des umrahmenden Rechtecks
+Quadrat: ein durch zwei gegenüberliegende Eckpunkte definiertes Quadrat wird gezeichnet
+Rechteck: das gleiche wie beim Quadrat
+Dreieck: zieht die Begrenzungslinien eines Dreickes, welches durch seine Eckpunkte bestimmt ist
+Polygon: das Vieleck wird solange erweitert bis man den Vorgang mittles Doppelklick beendet
+Rahmen: zeichnet ein nicht ausgefülltes Rechteck
+Bogen: nach dem Aufziehen der Ellipse kann man durch zwei Punkte einen Bogen einschließen
+Tortenstück: wie beim Bogen, nur dass die eingeschlossene Fläche ausgeüllt wird
+Kreisstück: scheidet von einer Ellipse ein durch eine Linie begrenztes Stück ab.
+Rundeck: erstellt ein Rechteck mit abgerundeten Ecken

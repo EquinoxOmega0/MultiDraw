@@ -1,0 +1,23 @@
+Multidraw - Effekte
+
+Fraktale
+Mandelbrot: Hier kann man in die berühmte Mandelbrotmenge hineinzoomen und Ausschnitte vergrößern. Weiters kann man die Rechengenauigkeit mittles Radius und Iterationen bestimmen und per Farbwertfaktor die Einfärbung des Fraktals. Es gibt 3 Möpglichkeiten das Bild in das Zeichenprogramm zu exportieren. Mit "an Bild anpassen" wird das aktuelle Bild im Zeichenpogramm durch den Ausschnitt der Mandelbrotmenge ersetzt und es werden aber die alten Seitenverhältnisse übernommen. Mit "Bild ersetzen" wird auch wieder die Grafik im Zeichenprogramm übermalt, doch es werden nun die Seitenverhätnisse der Mandelbrotmenge genommen. Die letze Option "in Bild einfügen" ermöglich es die Mandelbrotmenge im Zeichenprogramm als eine Art rechteckiges Bild aufzuziehen. Durch drücken auf "Übertragen führen Sie diese Befehle aus.
+Julia: Die Juliamenge wird ähnlich der Mandelbrotmenge bedient, doch man sollte wissen, dass hier eine Änderungen der Konstanten, wie bei der Mandelbortmenge die Änderung der Abweichung, einen neuen Fraktal hervorbringt.
+Feigenbaum: Der Feigenbaum-Fraktal ist vollkommen anders als die Julia- oder die Mandelbrotmenge. Die Durchläufe bestimmen hier die Anzahl der berechneten Kurven und somit die Variablität des Fraktals. Es muß darauf hingewießen werden, dass der Wert für r-Ende nicht größer 4 sein soll und der für den r-Start nicht kleiner als 0, da es außerhalb dieses Intervalls keine Kurve gibt. 
+Rekursionen: Multidraw verfügt über acht verschiedene Typen von Rekursionen. Mittels den zusätzlichen Einstellungen lässt, sich eine unglaubliche Vielfalt an Gittergrafiken erzeugen.
+
+Funktionen
+Polynom: Durch Eigabe von Werten in die Spalte "Faktoren" und anschließendes klicken von Vorschau lassen sich mathematische Graphen erstellen. Diese Funktionen können auch bearbeitet werden. Um eine derartige Funktion in das Zeichenprogramm einzufügen klicken Sie zuerst auf Vorschau und dann auf Übertragen. Anschließend können Sie den Graphen ganz einfach auf der Zeichenfläche aufziehen.
+Rational: Im Grunde gleiche wie Polynom. Bitte beachten Sie dass in den Spalten "Zähler" und "Nenner" in mindestens je ein Faktor ungleich Null ist.
+Trigonometrisch: Wie Polynom. Sie müssen aber die beiden letzten Faktoren der jeweiligen Arbeitsfläche ungleich Null setzen um einen Graph zu sehen.
+Expotentiel: Wie Polynom. Die unterste Zeile der jeweiligen Faktorenspalte muß ungleich null sein.
+
+Zufälle
+Pixel: Erzeugt Effekte basierend auf einzelnen Pixels. Das Streumuster bestimmt die Art der Verteilung: bei "gleichmäßig" werden alle Pixels total zufällig über die ganzen Zeichenfläche vertielt. Mittels "von Punkt ausstrahlend" kann man anschließen eine Punkt mit der Maus setzten von dem der Effekt ausgeht. Bei "von Linie ausstrahlen" ist man in der Lage selbst eine Linie zu zeihen, die dann als "Pixelquelle" dient. "multiple Zentren" ermöglichen ein Verstreuen auf der Zeichenfläche mit zufälligen Konzentrationen. Der "Komentenschweif" erlaubt Ihnen eine Linie aufzuziehen von der Startpunkt aus in Richtung des Entpunkes Pixels gefächert gestreut werden.
+Formen: Hiermit können Sie unterschiedliche geometischen Formen zufällig auf der Zeichenfläche verteilen.
+Linien: Ermöglicht ein zufälliges verstreuen von auswählbaren Strichmustern auf der Zeichenfläche.
+
+Muster
+Farbübergang: Übermalt die Zeichenfläche volständig mit einem langsamen Farbwechsel von der ersten Farbe zur zweiten.
+ein Bild: Fügt ein einfaches Bild(daneben zeichenbar) aneindergereiht auf der ganzen Zeichenfläche ein. 
+Linienmuster: Füllt die Zeichenfläche mit einem Linenmuster aus. 

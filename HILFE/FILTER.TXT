@@ -1,0 +1,15 @@
+Multidraw - Filter
+
+Es wird Ihnen eine breite Palette an Filtern von Multidraw angeboten. Jeder davon besitzt eine andere Eigenschaft mit der Sie das ganze Bild auf interessante Art und Weise verändern können.
+
+Weichzeichner: verringert die Schärfe des Bildes
+Verwischer: verschmiert das Bild in die jeweilige Richtung
+Übergangsänderer: verschmiert Bild und erzeugt faszinierende Effekte an den Übergängen zwischen zwei Farben
+Unschärfemaskierung: erhöht die Schärfe des Bildes
+Graustufen: ersetzt die Farben durch Abstufungen von Grautönen
+Helligkeitsänderung: erhöht oder verringert die Helligkeit des Bildes
+Komplimentär: tauscht aktuelle Farben durch ihre Komplimentärfarben aus
+Farbwertwechsel: verändert die Farben eines Bildausschnittes mittels der Farbkanäle
+Farbe austauschen: ersetzt eine Farbe vollständig durch eine andere
+Kanäle vertauschen: wechselt Farbkanäle
+Farbfilter: elimiert alle Farben bis auf eine

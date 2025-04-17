@@ -1,0 +1,10 @@
+Multidraw - Allgemein
+
+Sollte das von Ihnen benütze Bild gößer als die Zeichnfläche sein, so können sie sich mittels Rollbalken darin frei bewegen.
+
+Sie können in diesem Programm die Vordergundfarbe entweder durch einen Klick in die Farbbox linksunten auswählen oder aber auch über ein Menü, welches sich durch Klicken auf das Rechteck unterhalb des Schriftzuges "VG" öffnet. Das selbe gilt für die Hintergrundfarbe, nur dass man diese durch einen Klick mit der rechten Maustaste auswählt, während man hingegen die Vordergrundfarbe mittels der linken Maustaste nimmt.
+
+Um die Dicke eines Stiftes zu änder gibt es das Feld "Dicke" in dem man sie auf den Pixel genau bestimmen kann. Dieses Feld befindet sich auch im linken unteren Eck.
+
+Man ist in der Lage die Breite und Höhe des Bildes mittels der Bediehnungsfelder im rechten unteren Eck zu editieren. Eine andere Möglichkeit wäre das Menü Bild und der Menüpunkt "Größe ändern". Dort wird allerdings der Inhalt des Bildes auf die jeweilge neue Größe hin gestreckt.
+

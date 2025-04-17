@@ -1,0 +1,3 @@
+Hauptseite
+
+Das Programm "Multidraw" besteht aus vier Programmen mit unterschiedlichen Eigenschaften. Das Hauptprogramm dieser vier ist das eigentliche "Multidraw", während hingegen "FantasticScreen", "PicWave" und "Dianimate" das Packet mit zahlreichen neuen Möglichkeiten erweitern.

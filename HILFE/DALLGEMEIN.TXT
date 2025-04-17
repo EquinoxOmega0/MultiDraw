@@ -1,0 +1,3 @@
+Dianimate - Allgemein
+
+Dianimate ist in der Lage folgende Dateiformate zu erkennen: *.bmp , *.wmf , *.ico und *.jpg . Mittels des Verzeichnis- und Laufwerksmenü können sie alle Bilder auf ihren Dateisystem erreichen. Mittels ">" können Sie einzelne markierte Objekte der Diashow hinzufügen, während Sie mittels ">>" alle im ausgewählten Ordner befindlichen Bilder der Diashow anhängen. "+" und "-" befähigt Sie die Reihenfolge der einzelnen Bilder in der Diashow zu bearbeiten und "Entf" dient zum Löschen eines markierten Bildes aus der Diashow.

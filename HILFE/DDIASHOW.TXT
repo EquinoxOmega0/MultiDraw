@@ -1,0 +1,8 @@
+Dianimate - Diashow
+
+Wenn die Diashow läuft können Sie sie jeder Zeit mittles der Esc-Taste beenden. Sollte die Option manueller Bildwechsel gewählt worden sein, dann können Sie die Diashow mittels der Tastatur steuern.
+Bild up: zum nächsten Bild
+Bild down: zurück zum vorherigen Bild
+Pos1: zum ersten Bild
+Ende: zum letzten Bild
+Esc: Diashow beenden

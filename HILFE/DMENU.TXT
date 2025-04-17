@@ -1,0 +1,4 @@
+Dianimate - Menü
+
+Mit dem Menüpunkt "Einstellung" gelangen zu einem Fenster in dem Sie die Übergänge, die Bildgröße und die Art der Steuerung der Diashow bestimmen können. Der Menüpunkt "Diashow" startet die Diashow mit dem ausgewählten Einstellungen und Bildern. Das Datei-Menü ermöglicht Ihnen neben dem Beenden des Programmes noch 3 weitere Optionen. Sie können mit "Neu" alle Einstellungen der jetzigen Diashow löschen um eine neue zu kreieren. Mittels "Laden" können Sie eine bereits erstellte Diashow öffnen. "Speichern" ermöglicht ihnen die Liste der für die Diashow benötigten Bilder zu sichern. Dazu wird das programmeigene Dateiformat *.dsl (Diashowliste) verwendet.
+ 

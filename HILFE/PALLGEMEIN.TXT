@@ -1,0 +1,3 @@
+Picwave - Allgemein
+
+Diese Programm ist primär zum Erstellen von Videosequenzen gedacht, doch es verfügt auch noch über weitere Eigenschaften. Es ist mir rudimentären Zeichenwerkzeugen ausgestatten um die für das Video nötigen Bilder bearbeiten zu können. Darüberhinaus verfügt es über einem unabhängigen Audioplayer mit dem man Wave- und Midi-Datein abspielen kann. Dennoch liegt der Schwerpunkt von PicWave klar auf dem Dateiformat PWD und den zur Bearbeitung nötigen Hilfsmitteln.

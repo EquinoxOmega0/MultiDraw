@@ -1,0 +1,3 @@
+Picwave - PWD
+
+Das PWD-Foramt wurde eigens für dieses Programm entwickeln und dient zu Abspeicherung von Kombinierten Bild- und Audiosequenzen. Die hervorragende Qualität der Dateien hat jedoch einen beachtlichen Speicherplatzbedarf zu folge. Um eine derartige Datei zu erstellen aktivieren sie einfach den PWD-Modus. Sie können selbstverständlich auch bereits gespeicherte Datein wieder laden um sie abzuspielen oder zu editieren. 

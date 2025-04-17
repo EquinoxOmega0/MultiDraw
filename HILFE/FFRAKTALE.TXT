@@ -1,0 +1,3 @@
+FantasicScreen - Fraktale
+
+Fraktale sind in sich wiederholenden Grafiken auf mathematischer Basis, welche hier über die Registerkarte "Fraktale" in Ihren Bildschirmschoner einbauen können. Sie können den Computer in bestimmten Zeitschritten entweder immer wieder einen neuen Auschnitt des Fraktals mittles "Springend" zeigen lassen oder Sie können über "Zoomen" ihn immer tiefer hineinzoomen lassen bis dann wieder eine neue Stelle gesucht wird. Diesem Programm stehen 2 Typen von Fraktalen zur Verfügung, nämlich die Mandelbrotmenge und die Juliamenge. Mittel Abweichen bzw. Konsante können sie sehr genau das Aussehen des Fraktales festlegen. Der "Farbwertfaktor" beschreibt die Einfärbung des Fraktals, währen die "Iterationen" die Genauigkeit der Berechung angeben.

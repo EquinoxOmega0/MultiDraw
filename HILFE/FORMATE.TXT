@@ -1,0 +1,10 @@
+Picwave - Formate
+
+PicWave besitzt die Fähigkeit 7 verschieden Dateiformate zu laden und in 5 unterschiedlichen Formaten zu speichern.
+Bitmap (*.bmp): kann einerseits ganz gewöhnlich bearbeitet werden oder für eine PWD-Datei verwendet werden.
+Jepg (*.jpg): für dieses Format gelten die selben Regel wie für Bitmaps.
+Wave (*.wav): über Audioplayer abspielbar und editierbar, auch für PDW-Datein als Sound verwendbar
+Midi (*.mid): kann nur für den Audioplayer verwendet werden.
+Avi (*.avi): Diese Format kann nicht gespeichert, aber sehrwohl über den Mediaplayer betrachtet werden.
+Diashowliste (*.dsl): Diese Format kann nur mittels Bilderliste laden geöffnet werden und dient ausschließlich zur Verwendung im Rahmen einer PWD-Datei.
+PicWaceDatei (*.pwd): kann erstellt, gespeichert, editiert und geladen werden.

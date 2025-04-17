@@ -1,0 +1,3 @@
+Picwave - Rest
+
+Die Werkzeuge für die Bildkorrektur dienen nur zur kleinen Bearbeitung und nicht zur Gestalltung ganzer Bilder. Um eine anspruchsvolle Grafik zu erstellen verwenden Sie bitte "Multidraw". Die Werkzeuge hier sind nur ein kleiner essentieller Bruchteil der tatsächlen Möglichkeiten ein Bild zu verändern.
