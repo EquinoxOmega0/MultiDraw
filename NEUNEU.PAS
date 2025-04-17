@@ -1,0 +1,78 @@
+unit neuneu;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Classes, Graphics, Controls, Forms, Dialogs,
+  ExtCtrls, StdCtrls, Spin;
+
+type
+  TForm4 = class(TForm)
+    ColorDialog1: TColorDialog;
+    Button1: TButton;
+    GroupBox1: TGroupBox;
+    Label1: TLabel;
+    Label2: TLabel;
+    SpinEdit1: TSpinEdit;
+    SpinEdit2: TSpinEdit;
+    Shape1: TShape;
+    Label3: TLabel;
+    Button2: TButton;
+    GroupBox2: TGroupBox;
+    Label4: TLabel;
+    Label5: TLabel;
+    procedure SpinEdit1Change(Sender: TObject);
+    procedure FormCreate(Sender: TObject);
+    procedure SpinEdit2Change(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
+    procedure Button1Click(Sender: TObject);
+    procedure Shape1MouseDown(Sender: TObject; Button: TMouseButton;
+      Shift: TShiftState; X, Y: Integer);
+  private
+    { Private-Deklarationen }
+  public
+    { Public-Deklarationen }
+  end;
+
+var
+  Form4: TForm4;
+
+implementation
+
+uses main;
+
+{$R *.DFM}
+
+procedure TForm4.SpinEdit1Change(Sender: TObject);
+begin
+label5.caption:=floattostr(round(((spinedit1.value*spinedit2.value*4)+54)/1.024)/1000)+' KB';
+end;
+
+procedure TForm4.FormCreate(Sender: TObject);
+begin
+label5.caption:=floattostr(round(((spinedit1.value*spinedit2.value*4)+54)/1.024)/1000)+' KB';
+end;
+
+procedure TForm4.SpinEdit2Change(Sender: TObject);
+begin
+label5.caption:=floattostr(round(((spinedit1.value*spinedit2.value*4)+54)/1.024)/1000)+' KB';
+end;
+
+procedure TForm4.Button2Click(Sender: TObject);
+begin
+form1.neuabr;
+end;
+
+procedure TForm4.Button1Click(Sender: TObject);
+begin
+Form1.neuerstellen;
+end;
+
+procedure TForm4.Shape1MouseDown(Sender: TObject; Button: TMouseButton;
+  Shift: TShiftState; X, Y: Integer);
+begin
+Form1.neubgfarb;
+end;
+
+end.
+ 
