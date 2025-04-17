@@ -1,0 +1,99 @@
+unit editdia;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Classes, Graphics, Controls, Forms, Dialogs,
+  StdCtrls, Spin, ExtCtrls;
+
+type
+  TForm25 = class(TForm)
+    GroupBox1: TGroupBox;
+    RadioButton1: TRadioButton;
+    RadioButton2: TRadioButton;
+    SpinEdit1: TSpinEdit;
+    Label1: TLabel;
+    Label2: TLabel;
+    Button1: TButton;
+    Button2: TButton;
+    Button3: TButton;
+    GroupBox2: TGroupBox;
+    RadioButton3: TRadioButton;
+    RadioButton4: TRadioButton;
+    RadioButton5: TRadioButton;
+    RadioButton6: TRadioButton;
+    RadioButton7: TRadioButton;
+    RadioButton8: TRadioButton;
+    RadioButton9: TRadioButton;
+    RadioButton10: TRadioButton;
+    RadioButton11: TRadioButton;
+    GroupBox3: TGroupBox;
+    RadioButton12: TRadioButton;
+    RadioButton13: TRadioButton;
+    RadioButton14: TRadioButton;
+    RadioButton15: TRadioButton;
+    RadioButton16: TRadioButton;
+    RadioButton17: TRadioButton;
+    SpinEdit2: TSpinEdit;
+    SpinEdit3: TSpinEdit;
+    Label3: TLabel;
+    Label4: TLabel;
+    RadioButton18: TRadioButton;
+    RadioButton19: TRadioButton;
+    RadioButton20: TRadioButton;
+    RadioButton21: TRadioButton;
+    RadioButton22: TRadioButton;
+    RadioButton23: TRadioButton;
+    RadioButton24: TRadioButton;
+    Shape1: TShape;
+    ColorDialog1: TColorDialog;
+    procedure Button2Click(Sender: TObject);
+    procedure Button3Click(Sender: TObject);
+    procedure Button1Click(Sender: TObject);
+    procedure Shape1MouseDown(Sender: TObject; Button: TMouseButton;
+      Shift: TShiftState; X, Y: Integer);
+  private
+    { Private-Deklarationen }
+  public
+    { Public-Deklarationen }
+  end;
+
+var
+  Form25: TForm25;
+
+implementation
+
+uses obsimg;
+{$R *.DFM}
+
+procedure TForm25.Button2Click(Sender: TObject);
+begin
+form25.visible:=false;
+end;
+
+procedure TForm25.Button3Click(Sender: TObject);
+begin
+spinedit1.value:=100;
+spinedit2.value:=500;
+spinedit3.value:=500;
+radiobutton1.checked:=true;
+radiobutton3.checked:=true;
+radiobutton12.checked:=true;
+shape1.brush.color:=clblack;
+end;
+
+procedure TForm25.Button1Click(Sender: TObject);
+begin
+form31.diaed;
+end;
+
+procedure TForm25.Shape1MouseDown(Sender: TObject; Button: TMouseButton;
+  Shift: TShiftState; X, Y: Integer);
+begin
+colordialog1.color:=shape1.Brush.color;
+if colordialog1.execute
+then
+shape1.Brush.color:=colordialog1.color;
+end;
+
+end.
